@@ -7,3 +7,6 @@
 + ***fett kursiv***
 
 Beispieltext
+
+###Baum:
+![Fehler](./blog.jpg)
