@@ -1,3 +1,9 @@
 # Einkaufsliste
 
-**Test
+##Markdown Syntax
+
++ *kursiv*
++ **fett**
++ ***fett kursiv***
+
+Beispieltext
