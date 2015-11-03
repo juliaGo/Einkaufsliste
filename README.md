@@ -2,8 +2,8 @@
 
 ##Markdown Syntax
 
-+*kursiv*
-+**fett**
-+***fett kursiv***
++ *kursiv*
++ **fett**
++ ***fett kursiv***
 
 Beispieltext
